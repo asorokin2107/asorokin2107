@@ -6,7 +6,7 @@
 ##### Привет, меня зовут Анатолий! На протяжении года изучал язык программирования Java, был заинтересован в backend разработке. В процессе учебы увлекся тестированием собственных программ и начал глубже изучать профессию тестировщика. Мне нравится эта сфера, потому что я могу находить недостатки и влиять на качество продукта.
 
 ## CV
-📄[Мое резюме](https://drive.google.com/file/d/1cOmgwOXKgh1r8ahqnonY2LDvX8G-tKz3/view?usp=sharing)  
+📄[Мое резюме](https://drive.google.com/file/d/104636izoOi_D-LTMXA7fxWsrHQp09mUz/view?usp=sharing)  
 
 ### Portfolio:
 В разработке
@@ -18,7 +18,7 @@
 ![GitBash](https://img.shields.io/badge/-GitBash-090909?style=for-the-badge&logo=Git&logoColor=F88C00)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=openjdk&logoColor=E9D54D)
 ![mySQL](https://img.shields.io/badge/-mySQL-090909?style=for-the-badge&logo=mySQL&logoColor=E5D3FF)
-![Charles](https://img.shields.io/badge/-Charlesproxy-090909?style=for-the-badge&logo=Charles&logoColor=6296CC)
+![Charles](https://img.shields.io/badge/-Charles-090909?style=for-the-badge&logo=Charles&logoColor=6296CC)
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/sonofacolonel)
