@@ -2,7 +2,17 @@
 
 ## Обо мне
 
-Reposit
+Привет, меня зовут Анатолий! На протяжении года изучал язык программирования Java, был
+заинтересован в backend разработке. В процессе учебы увлекся
+тестированием собственных программ и начал глубже изучать профессию
+тестировщика. Мне нравится эта сфера, потому что я могу находить
+недостатки и влиять на качество продукта.
+
+### CV
+[![CV](https://img.shields.io/badge/-myCV-090909?style=for-the-badge&logo=CV&logoColor=4F7DB3)](https://drive.google.com/file/d/1blcKG69u5CH0KpfjzqSukCALbY6a3Fg-/view?usp=sharing)
+
+### Portfolio:
+В разработке
 
 ### Languages and Tools:
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=FFA500)
@@ -16,3 +26,5 @@ Reposit
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/sonofacolonel)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/touchmoneyprod)
+
+
