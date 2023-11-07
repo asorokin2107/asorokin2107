@@ -13,4 +13,6 @@ Reposit
 ![mySQL](https://img.shields.io/badge/-mySQL-090909?style=for-the-badge&logo=mySQL&logoColor=E5D3FF)
 ![Charles](https://img.shields.io/badge/-Charles-090909?style=for-the-badge&logo=Charles&logoColor=6296CC)
 
-Follow me
+## Follow Me
+![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/sonofacolonel)
+![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/touchmoneyprod)
