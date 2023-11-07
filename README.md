@@ -4,7 +4,13 @@
 
 Reposit
 
-Languages and Tools
-![Postman](https://camo.githubusercontent.com/4fc2f865dba7be1eaadfb0aef77227e64b05a3e2c64d8381385830e96f0b0311/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f502f706f73746d616e2d6c6f676f2d303038374341304431352d7365656b6c6f676f2e636f6d2e706e67)
+### Languages and Tools:
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=FFA500)
+![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=GoogleChrome&logoColor=097CDB)
+![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=87CEFA)
+![GitBash](https://img.shields.io/badge/-GitBash-090909?style=for-the-badge&logo=Git&logoColor=F88C00)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=E9D54D)
+![mySQL](https://img.shields.io/badge/-mySQL-090909?style=for-the-badge&logo=mySQL&logoColor=E5D3FF)
+![Charles](https://img.shields.io/badge/-Charles-090909?style=for-the-badge&logo=Charles&logoColor=6296CC)
 
 Follow me
