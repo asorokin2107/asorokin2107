@@ -15,6 +15,9 @@
 
 
 ● [Тест-кейс раздела "Магазин" сайта "Собаседник". Инструмент Test IT](https://imgur.com/a/Wt9dSql) 
+
+
+● [Тестирование API в Postman/Swagger + базовые автотесты, SOAP запросы в Postman + базовые запросы в SOAP UI](https://imgur.com/a/2qZhg4C)
 ###### in developing
 
 
@@ -25,7 +28,9 @@
 ![GitBash](https://img.shields.io/badge/-GitBash-090909?style=for-the-badge&logo=Git&logoColor=F88C00)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=openjdk&logoColor=E9D54D)
 ![mySQL](https://img.shields.io/badge/-mySQL-090909?style=for-the-badge&logo=mySQL&logoColor=E5D3FF)
-![Charles](https://img.shields.io/badge/-Charles-090909?style=for-the-badge&logo=Charles&logoColor=6296CC)
+![Charles](https://img.shields.io/badge/-Charles-528DD7?style=for-the-badge&logo=Charles&logoColor=6296CC)
+![Fiddler](https://img.shields.io/badge/-Fiddler-2BB24C?style=for-the-badge&logo=&logoColor=#F2BB13)
+![SOAP UI](https://img.shields.io/badge/-SoapUI-FFC20E?style=for-the-badge&logo=&logoColor=#F2BB13)
 
 ## 📲 Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/sonofacolonel)
