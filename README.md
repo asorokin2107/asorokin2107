@@ -1,23 +1,27 @@
 ![Header](https://github.com/asorokin2107/asorokin2107/blob/main/assets/qa-qc-tester-career-mini-1024x359.png)
 
 
-## 😇 Обо мне
+## 😇 About me
 
 ##### Привет, меня зовут Анатолий! На протяжении года изучал язык программирования Java, был заинтересован в backend разработке. В процессе учебы увлекся тестированием собственных программ и начал глубже изучать профессию тестировщика. Мне нравится эта сфера, потому что я могу находить недостатки и влиять на качество продукта.
 
+##
+
+##### Hello, my name is Anatoly! I studied the Java programming language for a year and was interested in backend development. During my studies, I became interested in testing my own programs and began to study more deeply the profession of a tester. I like this field because I can find flaws and influence the quality of the product.
+
 ## 📄 CV
-➨ [Мое резюме](https://drive.google.com/file/d/104636izoOi_D-LTMXA7fxWsrHQp09mUz/view?usp=sharing)  
+➨ [My resume](https://drive.google.com/file/d/104636izoOi_D-LTMXA7fxWsrHQp09mUz/view?usp=sharing)  
 
 
 
 ## 💻 Portfolio:
-● [Функциональное тестирование сайта "Собаседник"](https://imgur.com/a/gT2bGnt)
+● [Функциональное тестирование сайта "Собаседник"/ Functional testing of the website](https://imgur.com/a/gT2bGnt)
 
 
-● [Тест-кейс раздела "Магазин" сайта "Собаседник". Инструмент Test IT](https://imgur.com/a/Wt9dSql) 
+● [Тест-кейс раздела "Магазин" сайта "Собаседник". Инструмент Test IT / Test cases via TestIT](https://imgur.com/a/Wt9dSql) 
 
 
-● [Тестирование API в Postman/Swagger + базовые автотесты, SOAP запросы в Postman + базовые запросы в SOAP UI](https://imgur.com/a/2qZhg4C)
+● [Тестирование API в Postman/Swagger + базовые автотесты, SOAP запросы в Postman + базовые запросы в SOAP UI / Postman collection for the petstore: REST + basic SOAP requests + basic auto-tests](https://imgur.com/a/2qZhg4C)
 ###### in developing
 
 
