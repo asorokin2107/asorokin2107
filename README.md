@@ -22,6 +22,9 @@
 
 
 ● [Тестирование API в Postman/Swagger + базовые автотесты, SOAP запросы в Postman + базовые запросы в SOAP UI / Postman collection for the petstore: REST + basic SOAP requests + basic auto-tests](https://imgur.com/a/2qZhg4C)
+
+
+● [Используя Charles Proxy, я протестировал магазин и корзину сайта / Using Charles Proxy, I tested the store and website cart](https://github.com/asorokin2107/Charlesproxy)
 ###### in developing
 
 
