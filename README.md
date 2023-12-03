@@ -16,7 +16,6 @@
 ➨ [Certificate of completion of the course / Сертификат о прохождении курса](https://v2.coreapp.ai/certificate/pdf/655e048fe18543e0ecd48084)
 
 
-
 ## 💻 Portfolio:
 ● [Функциональное тестирование сайта "Собаседник"/ Functional testing of the website](https://imgur.com/a/gT2bGnt)
 
@@ -31,6 +30,9 @@
 
 
 ● [MySQL запросы, работа с таблицей / MySQL queries, working with tables](https://github.com/asorokin2107/mySQL_gamestudio/tree/main)
+
+
+● [Чек-лист раздела "Регистрация/Вход" на форуме GTA-TRINITY / Checklist for the "Registration/Login" section on the GTA-TRINITY forum](https://docs.google.com/spreadsheets/d/1Hno6DTZgFHawR-nXxZ7BlIDUF3fDct_K/edit?usp=sharing&ouid=105274321347461985658&rtpof=true&sd=true)
 ###### in developing
 
 
@@ -41,9 +43,14 @@
 ![GitBash](https://img.shields.io/badge/-GitBash-090909?style=for-the-badge&logo=Git&logoColor=F88C00)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=openjdk&logoColor=E9D54D)
 ![mySQL](https://img.shields.io/badge/-mySQL-090909?style=for-the-badge&logo=mySQL&logoColor=E5D3FF)
+![Android Studio](https://img.shields.io/badge/-AndroidStudio-090909?style=for-the-badge&logo=Android&logoColor=#008000)
 ![Charles](https://img.shields.io/badge/-Charles-528DD7?style=for-the-badge&logo=Charles&logoColor=6296CC)
 ![Fiddler](https://img.shields.io/badge/-Fiddler-2BB24C?style=for-the-badge&logo=&logoColor=#F2BB13)
 ![SOAP UI](https://img.shields.io/badge/-SoapUI-FFC20E?style=for-the-badge&logo=&logoColor=#F2BB13)
+![Wizdler](https://img.shields.io/badge/-Wizdler-708090?style=for-the-badge&logo=Wizdler&logoColor=#708090)
+![YouTrack](https://img.shields.io/badge/-YouTrack-4B0082?style=for-the-badge&logo=YouTrack&logoColor=#708090)
+![TestIT](https://img.shields.io/badge/-TestIT-F5DEB3?style=for-the-badge&logo=TestIT&logoColor=#708090)
+
 
 ## 📲 Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/sonofacolonel)
