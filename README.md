@@ -10,7 +10,7 @@
 ##### Hello, my name is Anatoly! I studied the Java programming language for a year and was interested in backend development. During my studies, I became interested in testing my own programs and began to study more deeply the profession of a tester. I like this field because I can find flaws and influence the quality of the product.
 
 ## 📄 CV and Certificate
-➨ [My resume](https://drive.google.com/file/d/104636izoOi_D-LTMXA7fxWsrHQp09mUz/view?usp=sharing) 
+➨ [My resume](https://drive.google.com/file/d/1-2o_YR8U7hI18_AvgeNmqfcuTZ9CGYY4/view?usp=sharing)
 
 
 ➨ [Certificate of completion of the course / Сертификат о прохождении курса](https://v2.coreapp.ai/certificate/pdf/655e048fe18543e0ecd48084)
