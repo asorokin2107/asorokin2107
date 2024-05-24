@@ -34,7 +34,7 @@
 
 ● [Чек-лист раздела "Регистрация/Вход" на форуме GTA-TRINITY / Checklist for the "Registration/Login" section on the GTA-TRINITY forum](https://docs.google.com/spreadsheets/d/1Hno6DTZgFHawR-nXxZ7BlIDUF3fDct_K/edit?usp=sharing&ouid=105274321347461985658&rtpof=true&sd=true)
 
-● [QA Lab exercise |](https://docs.google.com/spreadsheets/d/1Sa0MFonzFyZDmT1RcD6S0XbTwE2km6mR/edit?usp=sharing&ouid=105274321347461985658&rtpof=true&sd=true) [Условие упражнения / Exercise condition](https://docs.google.com/spreadsheets/d/1ITuRsAkeAhqGtsw3qt1nFtKTYFX9fmSQSOk3hctpQ6s/edit?hl=ru#gid=1124573836)
+● [QA Lab exercise ](https://docs.google.com/spreadsheets/d/1Sa0MFonzFyZDmT1RcD6S0XbTwE2km6mR/edit?usp=sharing&ouid=105274321347461985658&rtpof=true&sd=true)  | [Условие упражнения / Exercise condition](https://docs.google.com/spreadsheets/d/1ITuRsAkeAhqGtsw3qt1nFtKTYFX9fmSQSOk3hctpQ6s/edit?hl=ru#gid=1124573836)
 
 
 ## ♨ Languages and Tools:
