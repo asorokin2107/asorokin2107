@@ -5,6 +5,8 @@
 
 ##### Привет, меня зовут Анатолий! На протяжении года изучал язык программирования Java, был заинтересован в backend разработке. В процессе учебы увлекся тестированием собственных программ и начал глубже изучать профессию тестировщика. Мне нравится эта сфера, потому что я могу находить недостатки и влиять на качество продукта.
 
+##### Hello, my name is Anatoly! I studied the Java programming language for a year and was interested in backend development. During my studies, I became interested in testing my own programs and began to study more deeply the profession of a tester. I like this field because I can find flaws and influence the quality of the product.
+
 ##
 
 ## 🚴 Хобби
@@ -33,8 +35,6 @@
 ###### 6. Взаимодействие с клиентом
 
 ##
-
-##### Hello, my name is Anatoly! I studied the Java programming language for a year and was interested in backend development. During my studies, I became interested in testing my own programs and began to study more deeply the profession of a tester. I like this field because I can find flaws and influence the quality of the product.
 
 ## 📄 CV and Certificate
 ➨ [My resume](https://drive.google.com/file/d/1-2o_YR8U7hI18_AvgeNmqfcuTZ9CGYY4/view?usp=sharing)
