@@ -7,13 +7,9 @@
 
 ##### Hello, my name is Anatoly! I studied the Java programming language for a year and was interested in backend development. During my studies, I became interested in testing my own programs and began to study more deeply the profession of a tester. I like this field because I can find flaws and influence the quality of the product.
 
-##
-
 ## 🚴 Хобби
 
 ##### Длительные прогулки на велосипеде, прохождение сюжетных игр, просмотр фантастических/документальных сериалов/фильмов, редко но могу под настроение пописать музыку.
-
-##
 
 ## 💼 Опыт
 
@@ -34,7 +30,12 @@
 ###### 5. Ведение магазина на площалке битстарс
 ###### 6. Взаимодействие с клиентом
 
-##
+#### Тестирование игр на волонтерских началах
+##### The Day Before, Древние русы
+###### 1. Поиск критичных багов
+###### 2. Проверка озвучки
+###### 3. Проверка ошибок в тексте
+###### 4. Составление баг-репортов
 
 ## 📄 CV and Certificate
 ➨ [My resume](https://drive.google.com/file/d/1-2o_YR8U7hI18_AvgeNmqfcuTZ9CGYY4/view?usp=sharing)
